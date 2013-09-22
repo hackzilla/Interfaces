@@ -1,6 +1,6 @@
 <?php
 
-namespace Hackzilla\Interface\User\UserInterface;
+namespace Hackzilla\Interfaces\User\UserInterface;
 
 interface UserInterface
 {
