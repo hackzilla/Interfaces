@@ -1,5 +1,5 @@
 {
-    "name": "hackzilla/interface",
+    "name": "hackzilla/interfaces",
     "description": "Glue between hackzilla bundles and other bundles",
     "license": "MIT",
     "authors": [
