@@ -9,9 +9,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Hackzilla\\Interfaces": ""
+        "psr-4": {
+            "Hackzilla\\Interfaces\\": ""
         }
-    },
-    "target-dir": "Hackzilla/Interfaces"
+    }
 }
