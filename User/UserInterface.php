@@ -9,4 +9,6 @@ interface UserInterface
     public function getUserById($userId);
 
     public function hasRole($user, $role);
+
+    public function isGranted($user, $role);
 }
